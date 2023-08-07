@@ -35,7 +35,7 @@ Based on the lightweight Muduo network library and the efficient Protobuf serial
 
 # 二、RPC通信原理及项目技术选型
 
-![1682240550705](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1682240550705.png)
+![img](https://github.com/AutinC/RPC/blob/main/images/1682240550705.png?raw=true)
 
 **黄色部分**：设计rpc方法参数的打包和解析，也就是数据的**序列化和反序列化**，使用Protobuf。 
 
